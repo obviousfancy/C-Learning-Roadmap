@@ -1,0 +1,25 @@
+# Ignorar archivos ejecutables y binarios
+*.exe
+*.out
+*.bin
+
+# Ignorar archivos objeto y bibliotecas
+*.o
+*.obj
+*.so
+*.a
+*.dll
+*.lib
+*.dylib
+
+# Ignorar carpetas de compilación de CMake (CLion crea carpetas como cmake-build-debug)
+cmake-build-*/
+
+# Ignorar archivos de CMake generados
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+
+# Ignorar configuración específica de CLion
+.idea/

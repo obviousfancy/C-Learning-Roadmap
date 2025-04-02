@@ -10,30 +10,13 @@
 ## 📌 Tabla de Contenidos
 - [Estructura del Repositorio](#-estructura-del-repositorio)
 - [Cómo Empezar](#-cómo-empezar)
-- [Licencia](#-licencia)
+- [Licencia](#-LICENSE)
 - [Tags por Semana](#-tags-por-semana)
 - [Proyectos](#-proyectos)
 - [Contribuciones](#-contribuciones)
 - [Recursos](#-recursos)
 
-## 🗂️ Estructura del Repositorio
-C-Learning-Path/
-├── semana_01/
-│ ├── ejercicios/
-│ │ ├── 01_hola_mundo.c
-│ │ ├── 02_calculadora_imc.c
-│ ├── proyectos/
-│ │ ├── conversor_unidades.c
-│ ├── notas.md
-├── semana_02/
-│ ├── ejercicios/
-│ │ ├── 01_verificar_primo.c
-│ │ ├── 02_tabla_multiplicar.c
-├── proyectos/
-│ ├── basico/
-│ │ ├── agenda_contactos/
-│ ├── intermedio/
-│ │ ├── cajero_automatico/
-│ ├── avanzado/
-│ │ ├── cliente_servidor/
-└── LICENSE # Licencia GNU GPLv3
+## 🛠️ Cómo Empezar
+1. **Clona el repositorio**:
+   ```bash
+   git clone https://github.com/obviousfancy/C-Learning-Roadmap
